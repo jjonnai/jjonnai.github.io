@@ -1,0 +1,8 @@
+/*Stylesheet*/
+
+.element{
+    display: inline-block;
+    width: 150px;
+    background-color: lightblue;
+    margin: 5px;
+}
