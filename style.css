@@ -1,10 +1,29 @@
 /*Stylesheet*/
 
 .element{
-    display: inline-block;
-    width: 150px;
-    background-color: lightblue;
-    margin: 5px;
+  display: inline-block; 
+  width: auto; 
+  background-color: rgba(0, 0, 0, 0.5); 
+  margin: 6px;
+  margin-right: 19px;
+  padding: 8px;
+  border-radius: 5px; 
+  text-align: center; 
+  vertical-align: middle; 
+  color: white;
+}
+
+.element i {
+  margin-right: 8px; 
+  vertical-align: middle; 
+  
+}
+
+footer {
+  text-align: center; 
+  padding: 20px;
+  background-color:#fff2e6;
+  font-family: Arial, sans-serif;
 }
 
 .headlineContainer{
@@ -120,6 +139,7 @@ header {
     text-decoration: none;
     list-style: none;
     font-size:smaller;
+    font-style:oblique;
   }
 
 
